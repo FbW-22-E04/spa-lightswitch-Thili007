@@ -1,0 +1,30 @@
+html,
+body,
+#root,
+.room {
+  height: 90vh;
+  margin: 0;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-size: 1.5rem;
+}
+
+.room {
+  border: 2px solid red;
+  padding: 30px;
+}
+
+button {
+  padding: 0.25rem 0.5rem;
+  font-size: 1rem;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
